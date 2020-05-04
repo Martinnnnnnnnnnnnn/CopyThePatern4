@@ -1,0 +1,2 @@
+rootProject.name='CopyThePatern4'
+include ':app'
